@@ -1,0 +1,17 @@
+.search {
+    /* width: 100%; */
+    height: 50px;
+}
+.field {
+    width: 100%;
+    height: 40px;
+    margin: 5px 0;
+    padding-left: 45px;
+    font-size: 19px;
+    line-height: 40px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid #d4d4d4;
+    box-shadow: 0 2px 5px 0 #e0e0e0;
+    background: #fff url('/public/search.svg') 15px center no-repeat;
+}
